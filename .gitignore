@@ -1,0 +1,21 @@
+# Google OAuth secrets
+client_secret*.json
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Next.js
+.next/
+out/
+build/
+
+# Vercel
+.vercel
